@@ -1,10 +1,10 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
+title: Ajinkya Bapat
 description: "A blog about lorem ipsum ..."
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+url: "http://AjinkyaBapat.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
-username: lorem ipsum
+username: Ajinkya Bapat
 user_title: Lorem Ipsum - FrontEnd
 email: lorem.lorem@ipsum.com
 twitter_username: loremipsum
