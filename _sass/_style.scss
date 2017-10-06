@@ -2503,7 +2503,8 @@ body {
     height: 100%;
     width: 100%;
     &.one {
-      background: url(../assets/img/landing/header_three.jpg) 100% 0 no-repeat;
+      background: url(../assets/img/landing/header_three.jpg) no-repeat;
+      background-size: inherit
     }
     &.two {
       background: url(../assets/img/landing/header_four.jpg) 100% 0 no-repeat;
