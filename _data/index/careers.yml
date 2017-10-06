@@ -1,29 +1,43 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Hewlett Packard Enterprise
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: It was my first job ever!
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Nov. 2015
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: DevOps Engineer
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: DXC Technology
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: DXC.Technology was formed by the merger of HPE-CSC.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: April. 2017
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: DevOps Engineer
     i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Ignite Solutions Pvt. Ltd.
+    i18n: company_c
+  desc:
+    detail: I currently work here!
+    i18n: company_c_desc
+  date:
+    detail: Aug. 2017
+    i18n: company_c_date
+  job:
+    detail: Software DevOps Engineer
+    i18n: company_c_job
   icon: fa-plus-square
