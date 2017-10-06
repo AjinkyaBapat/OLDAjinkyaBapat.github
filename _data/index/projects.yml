@@ -6,7 +6,7 @@
   gh_user: AjinkyaBapat
   repo: Ansible-Run-Analyser
   img: /static/assets/img/landing/ara.jpg
-  desc: Ansible role to install "ARA" on your system. Clone this repo & run Playbook.yml. That's it!
+  desc: Ansible role to install "ARA" on your system.
 
 - name: Python
   i18n: cpython
