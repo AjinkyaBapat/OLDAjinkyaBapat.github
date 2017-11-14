@@ -27,7 +27,7 @@
 - id: blog
   i18n: nav.blog
   name: Blog
-  tpl: ajinkyabapat.me/techwisdombyajinkya
+  tpl: blog.html
   page: http://ajinkyabapat.me/techwisdombyajinkya
   css: testimonials navy-section
 
